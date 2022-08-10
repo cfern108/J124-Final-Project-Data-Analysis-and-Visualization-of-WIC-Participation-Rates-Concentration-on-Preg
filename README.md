@@ -56,14 +56,15 @@
 9. Change the order of the row to 'ascending.'
 10. Evaluate data for the lowest average participation score. 
 <img width="752" alt="Screen Shot 2022-08-10 at 1 35 54 AM" src="https://user-images.githubusercontent.com/109619760/183855559-01c17f8e-f856-4e5b-b5fb-ac8b6957ec08.png">
-11. Create a pivot table utilizing the 'pregnant 2013-2016' sheet which reflects 'Pregnant_Woman_Participation' data from 2013-2016.
-12. Add 'State Agency or Infian Tribal Organization' to a row.
-13. Order the row by 'Descending'
-14. Sort the row by 'SUM of Average Participation 10/12-09/13.' This is the average participation for the year 2013. 
-15. Unclick 'Show Totals' for the row. 
-16. Filter the pivot table to show only 'Average Participation 10/12-09/13.'
-17. Add 'Average Participation 10/12-09/13 to values.'
-18. Evaluate data for the highest average participation score. 
+
+11. Create a pivot table utilizing the 'pregnant 2013-2016' sheet which reflects 'Pregnant_Woman_Participation' data from 2013-2016. 
+12. Add 'State Agency or Infian Tribal Organization' to a row. 
+13. Order the row by 'Descending.' 
+14. Sort the row by 'SUM of Average Participation 10/12-09/13.' This is the average participation for the year 2013.  
+15. Unclick 'Show Totals' for the row.  
+16. Filter the pivot table to show only 'Average Participation 10/12-09/13.' 
+17. Add 'Average Participation 10/12-09/13 to values.' 
+18. Evaluate data for the highest average participation score.  
 <img width="575" alt="Screen Shot 2022-08-10 at 4 08 12 AM" src="https://user-images.githubusercontent.com/109619760/183886818-f8bd2c24-aee1-4bf9-9813-535b235c384b.png">
 19. Change the order of the row to 'ascending.'
 20. Evaluate the data for the lowest average participation score. 
