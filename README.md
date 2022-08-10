@@ -94,3 +94,6 @@
 
 ### Answer Key:
 * The states that seem most exceptional to me include California (1,348,938.58 average participation score) and Texas (916,461.17 average participation score). I feel that these are exceptional because 1) California doubles the average participation score of every other State agency or Indian Tribal Organization besides Texas, and 2) Both Texas and California are the only state agencies to surpass a score of 530,000 average participation. 
+
+## Analysis Question 4: What was the percentage change in the annual average WIC participation rates for pregnant and postpartum women for California and Texas, which were rated as the top two state agencies in 2013, 2014, 2015, and 2016?
+
