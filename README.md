@@ -1,8 +1,10 @@
-# J124 Final Project: Data Analysis and Visualization of WIC Participation (Postpartum and Pregnant Women)
+# J124 Final Project: Data Analysis and Visualization of WIC Participation (Postpartum and Pregnant Women) 
+![d8e5eb8f5c04ab56be38b33641b1e4f2_wiclogo](https://user-images.githubusercontent.com/109619760/183957823-bd52d2e7-b2bd-4e04-b3a1-d2a182ae6665.jpg)
 ## By Fernanda Frausto-Bonilla
 * This dataset was downloaded as (12) .csv files from [U.S. Public Assistance](https://www.kaggle.com/datasets/jpmiller/publicassistance?select=WICAgencies2013ytd/).
 * Link to [Google Sheet](https://docs.google.com/spreadsheets/d/1k-hFV07D_SuZsrD7_QWKM_obHQNqOTFNqP9yojNhaQQ/edit?usp=sharing)  with all .csv files cleaned.
 # Data Analysis
+
 ## Notes:
 * Download the "Pregnant_Women_Participation", "Postpartum_Women_Participation", and "Total_Number_of_Participants" .csv files for the years (2013-2016). 
 * There is a total of (12) .csv files that should be cleaned in OpenRefine. When cleaning, I only needed to sort the State agency/Tribal organization columb, remove a duplicate column with no data (which was an extra Texas), format columns with dates to a (00/00/00) style, and format the data to 'number' rather than 'plain text.'
