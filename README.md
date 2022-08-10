@@ -46,4 +46,5 @@
 ### Answer Key:
 * The three state agencies or Indian tribal groups with the highest average participation scores for the year 2013 among postpartum women are 1) California (79,040 average participation), 2) Texas (49,277 average participation), and 3) Mountain Plains (44,945.33 average participation). 
 * The three state agencies or Indian tribal groups with the lowest average participation scores include 1) Pleasant Point, ME (2.83), 2) Indian Township, ME (3), and Seneca Nation, NY (5.42). 
-* 
+
+## Analysis Question 3: Among total WIC participants, are any state agencies or Indian tribal organizations exceptional in regards to size in the year 2014?
