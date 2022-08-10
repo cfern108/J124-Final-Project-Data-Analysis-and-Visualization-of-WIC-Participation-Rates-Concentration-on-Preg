@@ -33,14 +33,14 @@ The purpose of this story is to shed light on WIC participation and to answer qu
 <img width="856" alt="analysis #1 pt 1" src="https://user-images.githubusercontent.com/109619760/183837637-dd75ee26-10bf-4de6-b46b-c2b60a902693.png">
 <img width="757" alt="Screen Shot 2022-08-10 at 12 24 43 AM" src="https://user-images.githubusercontent.com/109619760/183840563-3fb4409c-c3f0-4685-94ec-0ddb308c24bb.png">
 <img width="753" alt="Screen Shot 2022-08-10 at 12 26 23 AM" src="https://user-images.githubusercontent.com/109619760/183840839-5c491bbb-d07d-4676-a788-760926e95286.png">
-9. Create a pivot table utilizing the 'postpartum 2013-2016' sheet which reflects 'Postpartum_Woman_Participants' data from 2013-2016.
+9. Create a pivot table utilizing the 'postpartum 2013-2016' sheet which reflects 'Postpartum_Woman_Participants' data from 2013-2016. 
 10. Add ''State Agency or Indian Tribal Organization' to a row. 
 11. Order the row by 'Ascending.' 
 12. Sort the row by 'State Agency or Indian Tribal Organization.' 
-13. Show totals for the row. 
-14. Add 'Average Participation 10/12-09/13', 'Average Participation 10/13-09/14', 'Average Participation 10/14-09/15', 'Average Participation 10/15-09/16' to values. Make sure to add these values in the correct year order.
-15. Categorize each value by SUM. 
-16. Compare the grand totals for each column and identify which average participation total is the highest and lowest. 
+13.  Show totals for the row. 
+14.  Add 'Average Participation 10/12-09/13', 'Average Participation 10/13-09/14', 'Average Participation 10/14-09/15', 'Average Participation 10/15-09/16' to values. Make sure to add these values in the correct year order.
+15.  Categorize each value by SUM. 
+16.  Compare the grand totals for each column and identify which average participation total is the highest and lowest. 
 <img width="721" alt="Screen Shot 2022-08-10 at 3 41 49 AM" src="https://user-images.githubusercontent.com/109619760/183883343-82d8a1d7-836a-4196-83af-b4ec4f324fe9.png">
 <img width="720" alt="Screen Shot 2022-08-10 at 3 42 17 AM" src="https://user-images.githubusercontent.com/109619760/183883377-10e1e3cb-cc6a-4fda-b097-bd8ab14385a1.png">
 <img width="721" alt="Screen Shot 2022-08-10 at 3 42 41 AM" src="https://user-images.githubusercontent.com/109619760/183883386-d87a62be-94bc-4c62-a24e-1dd058e96724.png">
