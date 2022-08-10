@@ -9,7 +9,7 @@ On a U.S. national basis, the cost of living and raising children has progressiv
 
 The purpose of this story is to shed light on WIC participation and to answer questions such as "Which population groups (e.g. pregnant women, postpartum women, etc.)make up the largest percentage of WIC participants?" or "Which state agency or Indian tribal organization has the highest relative par ticipation rate?" I think that by looking at the statistics, we can build a framework for deciding which population groups should receive more services and for figuring out where and why they do. Additionally, it makes a comparison between needs before a child is born to after birth. 
 
-#Interviews:
+# Potential Interviews:
 1. Karen Farley, RD, IBCLC: Executive Director of the California WIC Association. 
 * Farley is a renowned state authority on breastfeeding-related policy matters as well as nutrition and breastfeeding care reform for preventing chronic diseases and enhancing factors affecting family health. Her work focuses on supporting novel approaches for WIC to combine with public health and the community. Karen appreciates how diverse local, state, and national groups work together with CWA to more effectively address the intricacies of today's challenges. I believe Karen will be relevant to my story as she will be able to provide knowledge on what target groups would benefit from more services and overall care. 
 * Email: kfarley@calwic.org
