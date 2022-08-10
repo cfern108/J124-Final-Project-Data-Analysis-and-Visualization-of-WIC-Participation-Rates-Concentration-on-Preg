@@ -17,7 +17,7 @@ The purpose of this story is to shed light on WIC participation and to answer qu
 * Email: kfarley@calwic.org
 * Telephone: 916-572-0700 
 2. Estefania Aparicio
-* Aparicio is a Nutrition and Public Health Unit researcher on Nutrition and Mental Health (NUTRISAM), Faculty of Medicine and Health Science, Universitat Rovira i Virgili, 43201 Reus, Spain. Aparicio's work centers on nutrient intake, specifically she has published an article on nutrient intake during pregnancy and post-partum via an [ECLIPSES Study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7285175/).   
+* Aparicio is a Nutrition and Public Health Unit researcher on Nutrition and Mental Health (NUTRISAM), Faculty of Medicine and Health Science, Universitat Rovira i Virgili, 43201 Reus, Spain. Aparicio's work centers on nutrient intake, specifically she has published an article on nutrient intake during pregnancy and post-partum via an [ECLIPSES Study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7285175/). I am confident that she will bring a sharp understanding of the significance of high-quality, nutrient-dense foods for the target segments in my pitch.
 * Email: estefania.aparicio@urv.cat
 * Telephone: +34-977759334
 
