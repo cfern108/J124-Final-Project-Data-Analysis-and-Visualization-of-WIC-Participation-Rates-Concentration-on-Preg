@@ -25,8 +25,8 @@
 <img width="753" alt="Screen Shot 2022-08-10 at 12 26 23 AM" src="https://user-images.githubusercontent.com/109619760/183840839-5c491bbb-d07d-4676-a788-760926e95286.png">
 
 ### ANSWER KEY: 
-* The year with the highest total average WIC participation among pregnant women is 2013 (10/01/12 - 09/01/13). 
-* The year with the lowest total average WIC participation among pregnant women is 2016 (10/01/15 - 09/01/16)
+* The year with the highest total average WIC participation among pregnant women is 2013 (10/01/12 - 09/01/13) with a total average WIC participation score of (906,255.50). 
+* The year with the lowest total average WIC participation among pregnant women is 2016 (10/01/15 - 09/01/16) with a total average WIC participation score of (767,635.50). 
 ## Analysis Question 2: Among postpartum women, which three state agencies or Indian tribal groups had the highest average participation for the year 2013? Which were the lowest?
 ### Step-By-Step Solution:
 1. Create a pivot table utilizing the 'postpartum 2013-2016' sheet which reflects 'Postpartum_Woman_Participation' data from 2013-2016.  
