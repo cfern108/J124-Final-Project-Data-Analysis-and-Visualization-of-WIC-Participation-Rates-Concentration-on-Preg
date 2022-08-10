@@ -31,7 +31,7 @@ The purpose of this story is to be intentional about shedding light on WIC parti
 * My data is limited to the years (2013-2016) because those were the only years the data is available. The time frame for each year begins on October 1st and ends on September 1st of the following year. 
 - In other words, 'Average Participation 10/12-09/13' refers to the year 2013, 'Average Participation 10/13-09/14' refers to the year 2014, 'Average Participation 10/14-09/15' refers to the year 2015, and  'Average Participation 10/15-09/16' refers to the year 2016. For clarification purposes, the '00/00' format refers to month and year.
 
-## Analysis Question 1: Which year saw the highest total average WIC participation (across all State agencies/Indian tribal organizations) among pregnant women and postpartum women? Which year was the lowest?
+## Analysis Question 1: Which year saw the highest total average WIC participation (across all State agencies/Indian tribal organizations) among pregnant and postpartum women? Which year was the lowest?
 
 ### Step-By-Step Solution: 
 1. Create a pivot table utilizing the 'pregnant 2013-2016' sheet which reflects 'Pregnant_Woman_Participation' data from 2013-2016.  
@@ -95,7 +95,7 @@ The purpose of this story is to be intentional about shedding light on WIC parti
 * The three state agencies or Indian tribal groups with the lowest average participation scores among postpartum women include 1) Pleasant Point, ME (2.83), 2) Indian Township, ME (3), and Seneca Nation, NY (5.42). 
 * Meanwhile. the three state agencies or Indian tribal groups with the lowest average participation scores among pregnant women include 1) Indian Towns (6.17), Pleasant Point, ME (8.17), and Santo Domingo Tribe, NM (16.17). 
 
-## Analysis Question 3: Among total WIC participants, are any state agencies or Indian tribal organizations exceptional in regards to size in the year 2014?
+## Analysis Question 3: Among total WIC participants, are any state agencies or Indian tribal organizations exceptional in regards to average participation size in the year 2014?
 
 ### Step-By-Step Solution:
 1. Create a pivot table utilizing the 'total participation 2013-2016' sheet which reflects 'Total_Number_of_Participants' data from 2013-2016.  
@@ -113,5 +113,16 @@ The purpose of this story is to be intentional about shedding light on WIC parti
 ### Answer Key:
 * The states that seem most exceptional to me include California (1,348,938.58 average participation score) and Texas (916,461.17 average participation score). I feel that these are exceptional because 1) California doubles the average participation score of every other State agency or Indian Tribal Organization besides Texas, and 2) Both Texas and California are the only state agencies to surpass a score of 530,000 average participation. 
 
-## Analysis Question 4: What was the percentage change in the annual average WIC participation rates for pregnant and postpartum women for California and Texas, which were rated as the top two state agencies in 2013, 2014, 2015, and 2016?
+## Analysis Question 4: California was consistently in the top two for highest average WIC participation among pregnant and postpartum women, what was the percent change in average WIC participation from the years 2013-2016?
+### Step-By-Step Solution:
+1. Create a pivot table utilizing the 'pregnant 2013-2016'sheet which reflects 'Pregnant_Woman_Participation' from 2013-2016.
+2. Add 'State Agency or Indian Tribal Organization' to Row.
+3. Order your row as 'Ascending'.
+4. Sort your row by 'State Agency or Indian Tribal Organization.
+5. Unclick 'Show Totals'
+6. Add 'Average Participation 10/12-09/13', 'Average Participation 10/13-09/14', 'Average Participation 10/14-09/15', 'Average Participation 10/15-09/16' to values. Make sure to add these values in the correct year order.
+7. Filter 'State Agency or Indian Tribal Organization to only show data for California and Texas. 
+8. Create Two new columns "Percent Change Yearly."
+9. Use the equation "=((current year value - previous year value)/previous year value) for analysis. 
+10.  
 
