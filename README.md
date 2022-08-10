@@ -23,3 +23,6 @@
 <img width="856" alt="analysis #1 pt 1" src="https://user-images.githubusercontent.com/109619760/183837637-dd75ee26-10bf-4de6-b46b-c2b60a902693.png">
 <img width="757" alt="Screen Shot 2022-08-10 at 12 24 43 AM" src="https://user-images.githubusercontent.com/109619760/183840563-3fb4409c-c3f0-4685-94ec-0ddb308c24bb.png">
 <img width="753" alt="Screen Shot 2022-08-10 at 12 26 23 AM" src="https://user-images.githubusercontent.com/109619760/183840839-5c491bbb-d07d-4676-a788-760926e95286.png">
+### ANSWER KEY: 
+* The year with the highest total average WIC participation among pregnant women is 2013 (10/01/12 - 09/01/13). 
+* The year with the lowest total average WIC participation among pregnant women is 2016 (10/01/15 - 09/01/16)
