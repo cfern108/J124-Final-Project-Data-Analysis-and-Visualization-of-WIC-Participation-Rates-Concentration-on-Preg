@@ -48,3 +48,13 @@
 * The three state agencies or Indian tribal groups with the lowest average participation scores include 1) Pleasant Point, ME (2.83), 2) Indian Township, ME (3), and Seneca Nation, NY (5.42). 
 
 ## Analysis Question 3: Among total WIC participants, are any state agencies or Indian tribal organizations exceptional in regards to size in the year 2014?
+
+### Step-By-Step Solution:
+1. Create a pivot table utilizing the 'total participation 2013-2016' sheet which reflects 'Total_Number_of_Participants' data from 2013-2016.  
+2. Add 'State Agency or Indian Tribal Organization' to a row. 
+3. Order the row by 'Descending.' 
+4. Sort the row by 'SUM of Average Participation 10/13 - 09/14.' This is the average participation for the year 2014. 
+5. Unclick 'Show Totals' for the row. 
+7. Filter the pivot table to only show 'Average Participation 10/13 - 09/14.'
+8. Add 'Average Participation 10/13-09/14' to values. 
+9. Evaluate data for any exceptional data.
