@@ -36,3 +36,8 @@
 6. Filter the pivot table to only show 'Average Participation 10/12 - 09/13.'
 7. Add 'Average Participation 10/12-09/13' to values. 
 8. Evaluate data for the highest average participation score.
+<img width="758" alt="Screen Shot 2022-08-10 at 1 36 18 AM" src="https://user-images.githubusercontent.com/109619760/183855518-20a81cb2-45fb-4edb-8d3a-b69d29ba051a.png">
+
+9. Change the order of the row to 'ascending.'
+10. Evaluate data for the lowest average participation score. 
+<img width="752" alt="Screen Shot 2022-08-10 at 1 35 54 AM" src="https://user-images.githubusercontent.com/109619760/183855559-01c17f8e-f856-4e5b-b5fb-ac8b6957ec08.png">
