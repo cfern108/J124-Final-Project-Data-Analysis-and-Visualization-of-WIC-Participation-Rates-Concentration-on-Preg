@@ -162,7 +162,7 @@ The purpose of my data is first and foremost to evaluate 1) which population gro
 23.  Filter the table to only show data for 'Alabama, Alaska, and Arizona.'
 24.  Evaluate data.
 <img width="919" alt="analysis #5 pt 3" src="https://user-images.githubusercontent.com/109619760/184131128-75bda97d-a28d-4175-bc00-034502530f38.png">
-### *ANSWER KEY:*
+### *ANSWER KEY:* 
 * Average Total WIC Participation (2013): Arizona (161,747.75), Alaska (23,054.67), Alabama (139,000.50).
 * Average Total WIC Participation (2014): Arizona (153,401.42), Alaska (19,604.67), Alabama (19,120.92).
 * Average Total WIC Participation (2015): Arizona (148,207.75), Alaska (19,682), Alabama (132,132.75).
