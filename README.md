@@ -133,7 +133,33 @@ The purpose of my data is first and foremost to evaluate 1) which population gro
 8. Create Two new columns "Percent Change Yearly."
 9. Use the equation "=((current year value - previous year value)/previous year value) for analysis. 
 
-## Analysis Question #5: What percentage of total WIC participants are pregnant women? What percentage of total WIC participants are postpartum women? 
+## Analysis Question #5: What was the average WIC participation for total participants in the following states: Alabama, Alaska, and Arizona from the years (2013-2016)? How does this compare to the average WIC particpation for pregnant and postpartum women for the years in the same states (2013-2016)? 
 ### Step-By-Step Solution: 
-1. 
+1. Create a pivot table utilizing the 'total participants 2013-2016' sheet.
+2. Add 'State Agency or Indian Tribal Organization' to row.
+3. Order the row as 'Descending.'
+4. Sort the row by 'State Agency or Indian Tribal Organization.'
+5. Click 'show totals' for row. 
+6. Add 'Average Participation 10/12-09/13', 'Average Participation 10/13-09/14', 'Average Participation 10/14-09/15', 'Average Participation 10/15-09/16' to values. Make sure to add these values in the correct year order.
+7. Filter the table to only show data for 'Alabama, Alaska, and Arizona.'
+8. Evaluate data.
+<img width="599" alt="Screen Shot 2022-08-11 at 4 59 41 AM" src="https://user-images.githubusercontent.com/109619760/184128751-7df468d9-0c64-4f21-9d9b-ec395e42f1b0.png">
+9. Create a pivot table utilizing the 'pregnant 2013-2016' sheet which reflects 'Pregnant_Women_Particpation' rates. 
+10. Add 'State Agency or Indian Tribal Organization' to row.
+11. Order the row as 'Descending.'
+12. Sort the row by 'State Agency or Indian Tribal Organization.'
+13. Click 'show totals' for row. 
+14. Add 'Average Participation 10/12-09/13', 'Average Participation 10/13-09/14', 'Average Participation 10/14-09/15', 'Average Participation 10/15-09/16' to values. Make sure to add these values in the correct year order.
+15. Filter the table to only show data for 'Alabama, Alaska, and Arizona.'
+16. Evaluate data.
+<img width="1294" alt="analysis #5 pt 2" src="https://user-images.githubusercontent.com/109619760/184130040-17d38910-d5af-4eff-a0db-67571593cd89.png">
+17. Create a pivot table utilizing the 'postpartum 2013-2016' sheet which reflects 'Postpartum_women_participation.'
+18. Add 'State Agency or Indian Tribal Organization' to row.
+19. Order the row as 'Descending.'
+20. Sort the row by 'State Agency or Indian Tribal Organization.'
+21. Click 'show totals' for row.
+22. Add 'Average Participation 10/12-09/13', 'Average Participation 10/13-09/14', 'Average Participation 10/14-09/15', 'Average Participation 10/15-09/16' to values. Make sure to add these values in the correct year order.
+23.  Filter the table to only show data for 'Alabama, Alaska, and Arizona.'
+24.  Evaluate data.
+<img width="919" alt="analysis #5 pt 3" src="https://user-images.githubusercontent.com/109619760/184131128-75bda97d-a28d-4175-bc00-034502530f38.png">
 
