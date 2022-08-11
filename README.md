@@ -121,7 +121,7 @@ The purpose of my data is first and foremost to evaluate 1) which population gro
 ### *ANSWER KEY:*
 * The states that seem most exceptional to me include California (1,348,938.58 average participation score) and Texas (916,461.17 average participation score). I feel that these are exceptional because 1) California doubles the average participation score of every other State agency or Indian Tribal Organization besides Texas, and 2) Both Texas and California are the only state agencies to surpass a score of 530,000 average participation. 
 
-## Analysis Question 4: California was consistently in the top two for highest average WIC participation among pregnant and postpartum women, what was the percent change in average WIC participation among both pregnant and postpartum women from the years 2013-2016?
+## Analysis Question 4: California was consistently the top state agency for highest average WIC participation among pregnant and postpartum women, what was the percent change in average WIC participation among both pregnant and postpartum women from the years 2013-2016?
 ### Step-By-Step Solution:
 1. Create a pivot table utilizing the 'pregnant 2013-2016'sheet which reflects 'Pregnant_Woman_Participation' from 2013-2016.
 2. Add 'State Agency or Indian Tribal Organization' to Row.
