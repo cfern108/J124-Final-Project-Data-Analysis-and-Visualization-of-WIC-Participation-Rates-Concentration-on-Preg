@@ -129,9 +129,24 @@ The purpose of my data is first and foremost to evaluate 1) which population gro
 4. Sort your row by 'State Agency or Indian Tribal Organization.
 5. Unclick 'Show Totals'
 6. Add 'Average Participation 10/12-09/13', 'Average Participation 10/13-09/14', 'Average Participation 10/14-09/15', 'Average Participation 10/15-09/16' to values. Make sure to add these values in the correct year order.
-7. Filter 'State Agency or Indian Tribal Organization to only show data for California and Texas. 
-8. Create Two new columns "Percent Change Yearly."
-9. Use the equation "=((current year value - previous year value)/previous year value) for analysis. 
+7. Filter 'State Agency or Indian Tribal Organization to only show data for California. 
+8. Create a new column labeled "Percent Change Yearly." 
+9. Use the equation "=((current year value - previous year value)/previous year value) for analysis in the new column.
+10. Format all data in the 'Percent Change Yearly Column' to percentage. 
+ <img width="913" alt="analysis ##4 pt 1" src="https://user-images.githubusercontent.com/109619760/184150112-dcef68b3-92bf-4ae8-ba73-a82df0421c4f.png">
+11. Create a pivot table utilizing the 'postpartum 2013-2016'sheet which reflects 'Postpartum_Woman_Participation' from 2013-2016.
+12. Add 'State Agency or Indian Tribal Organization' to Row.
+13. Order your row as 'Ascending'.
+14. Sort your row by 'State Agency or Indian Tribal Organization.
+15. Unclick 'Show Totals'
+16. Add 'Average Participation 10/12-09/13', 'Average Participation 10/13-09/14', 'Average Participation 10/14-09/15', 'Average Participation 10/15-09/16' to values. Make sure to add these values in the correct year order.
+17. Filter 'State Agency or Indian Tribal Organization to only show data for California. 
+18. Create a new column labeled "Percent Change Yearly."
+19. Use the equation "=((current year value - previous year value)/previous year value) for analysis in the new column.
+20. Format all data in the 'Percent Change Yearly Columb' to percentage.
+### *ANSWER KEY* 
+* Among pregnant women, the percent changes were as follows: Percent change from 2013 to 2014 was (-4.14%), Percent change from 2014 to 2015 was (-7.85%), Percent change from 2015 to 2016 was (-8.14%). 
+* Among postpartum women, the percent changes were as follows: Percent change from 2013 to 2014 was 
 
 ## Analysis Question #5: What was the average WIC participation for total participants in the following states: Alabama, Alaska, and Arizona from the years (2013-2016)? How does this compare to the average WIC particpation for pregnant and postpartum women for the years in the same states (2013-2016)? 
 ### Step-By-Step Solution: 
