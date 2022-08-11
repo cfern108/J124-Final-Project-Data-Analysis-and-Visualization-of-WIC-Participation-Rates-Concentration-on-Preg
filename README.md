@@ -66,7 +66,7 @@ The purpose of my data is first and foremost to evaluate 1) which population gro
 <img width="721" alt="Screen Shot 2022-08-10 at 3 42 41 AM" src="https://user-images.githubusercontent.com/109619760/183883386-d87a62be-94bc-4c62-a24e-1dd058e96724.png">
 
 
-### ANSWER KEY: 
+### *ANSWER KEY:* 
 * The year with the highest total average WIC participation for both pregnant and postpartum women is 2013 (10/01/12 - 09/01/13) with a total average WIC participation score of (906,255.50) for pregnant women and a total average WIC participation score of (643,243.42) for postpartum women. This sheds light on pregnant women utilizing WIC services more than postpartum women.  
 * The year with the lowest total average WIC participation for both pregnant and postpartum women is 2016 (10/01/15 - 09/01/16) with a total average WIC participation score of (767,635.50) for pregnant women and a total average WIC participation score of (562,171.92) for postpartum women. This sheds light on pregnant women utilizing WIC services more than post partum women.  
 
@@ -97,7 +97,7 @@ The purpose of my data is first and foremost to evaluate 1) which population gro
 20. Evaluate the data for the lowest average participation score.
 <img width="843" alt="Screen Shot 2022-08-10 at 4 10 00 AM" src="https://user-images.githubusercontent.com/109619760/183887140-152f68c6-d9d8-4a2b-a889-e413c3b0aa26.png">
 
-### Answer Key:
+### *ANSWER KEY:*
 * The three state agencies or Indian tribal groups with the highest average participation scores for the year 2013 among postpartum women are 1) California (79,040 average participation), 2) Texas (49,277 average participation), and 3) Mountain Plains (44,945.33 average participation). 
 * Meanwhile, the three state agencies or Indian tribal groups with the highest average participation scores for the year 2013 among pregnant women are 1) California (126,481.83), 2) Texas (95,425.75), and 3) Mountain Plains (53,240.33). This tells me that pregnant women utilized WIC services more than postpartum women in 2013. 
 * The three state agencies or Indian tribal groups with the lowest average participation scores among postpartum women include 1) Pleasant Point, ME (2.83), 2) Indian Township, ME (3), and Seneca Nation, NY (5.42). 
@@ -118,7 +118,7 @@ The purpose of my data is first and foremost to evaluate 1) which population gro
 <img width="1013" alt="Screen Shot 2022-08-10 at 1 56 49 AM" src="https://user-images.githubusercontent.com/109619760/183860021-4bf25c96-7eff-4d4b-af5f-454f66a75b07.png">
 <img width="1006" alt="Screen Shot 2022-08-10 at 1 58 37 AM" src="https://user-images.githubusercontent.com/109619760/183860449-d9e8f77b-f6ce-484a-a074-0029bc4c8d41.png">
 
-### Answer Key:
+### *Answer Key:*
 * The states that seem most exceptional to me include California (1,348,938.58 average participation score) and Texas (916,461.17 average participation score). I feel that these are exceptional because 1) California doubles the average participation score of every other State agency or Indian Tribal Organization besides Texas, and 2) Both Texas and California are the only state agencies to surpass a score of 530,000 average participation. 
 
 ## Analysis Question 4: California was consistently in the top two for highest average WIC participation among pregnant and postpartum women, what was the percent change in average WIC participation among both pregnant and postpartum women from the years 2013-2016?
