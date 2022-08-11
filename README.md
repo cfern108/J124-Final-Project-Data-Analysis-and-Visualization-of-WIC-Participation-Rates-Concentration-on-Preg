@@ -42,25 +42,25 @@ The purpose of my data is first and foremost to evaluate 1) which population gro
 ## Analysis Question 1: Which year saw the highest total average WIC participation (across all State agencies/Indian tribal organizations) among pregnant and postpartum women? Which year was the lowest?
 
 ### Step-By-Step Solution: 
-1. Create a pivot table utilizing the 'pregnant 2013-2016' sheet which reflects 'Pregnant_Woman_Participation' data from 2013-2016.  
-2. Add 'State Agency or Indian Tribal Organization' to a row. 
-3. Order the row by 'Ascending.' 
-4. Sort the row by 'State Agency or Indian Tribal Organization.' 
-5. Show totals for the row. 
-6. Add 'Average Participation 10/12-09/13', 'Average Participation 10/13-09/14', 'Average Participation 10/14-09/15', 'Average Participation 10/15-09/16' to values. Make sure to add these values in the correct year order.
-7. Categorize each value by SUM. 
-8. Compare the grand totals for each column and identify which average participation total is the highest and lowest. 
+- Create a pivot table utilizing the 'pregnant 2013-2016' sheet which reflects 'Pregnant_Woman_Participation' data from 2013-2016.  
+- Add 'State Agency or Indian Tribal Organization' to a row. 
+- Order the row by 'Ascending.' 
+- Sort the row by 'State Agency or Indian Tribal Organization.' 
+- Show totals for the row. 
+- Add 'Average Participation 10/12-09/13', 'Average Participation 10/13-09/14', 'Average Participation 10/14-09/15', 'Average Participation 10/15-09/16' to values. Make sure to add these values in the correct year order.
+- Categorize each value by SUM. 
+- Compare the grand totals for each column and identify which average participation total is the highest and lowest. 
 <img width="856" alt="analysis #1 pt 1" src="https://user-images.githubusercontent.com/109619760/183837637-dd75ee26-10bf-4de6-b46b-c2b60a902693.png">
 <img width="757" alt="Screen Shot 2022-08-10 at 12 24 43 AM" src="https://user-images.githubusercontent.com/109619760/183840563-3fb4409c-c3f0-4685-94ec-0ddb308c24bb.png">
 <img width="753" alt="Screen Shot 2022-08-10 at 12 26 23 AM" src="https://user-images.githubusercontent.com/109619760/183840839-5c491bbb-d07d-4676-a788-760926e95286.png">
-9. Create a pivot table utilizing the 'postpartum 2013-2016' sheet which reflects 'Postpartum_Woman_Participants' data from 2013-2016.
-10. Add ''State Agency or Indian Tribal Organization' to a row. 
-11. Order the row by 'Ascending.' 
-12. Sort the row by 'State Agency or Indian Tribal Organization.' 
-13. Show totals for the row. 
-14. Add 'Average Participation 10/12-09/13', 'Average Participation 10/13-09/14', 'Average Participation 10/14-09/15', 'Average Participation 10/15-09/16' to values. Make sure to add these values in the correct year order.
-15. Categorize each value by SUM. 
-16. Compare the grand totals for each column and identify which average participation total is the highest and lowest. 
+- Create a pivot table utilizing the 'postpartum 2013-2016' sheet which reflects 'Postpartum_Woman_Participants' data from 2013-2016.
+- Add ''State Agency or Indian Tribal Organization' to a row. 
+- Order the row by 'Ascending.' 
+- Sort the row by 'State Agency or Indian Tribal Organization.' 
+- Show totals for the row. 
+- Add 'Average Participation 10/12-09/13', 'Average Participation 10/13-09/14', 'Average Participation 10/14-09/15', 'Average Participation 10/15-09/16' to values. Make sure to add these values in the correct year order.
+- Categorize each value by SUM. 
+- Compare the grand totals for each column and identify which average participation total is the highest and lowest. 
 <img width="721" alt="Screen Shot 2022-08-10 at 3 41 49 AM" src="https://user-images.githubusercontent.com/109619760/183883343-82d8a1d7-836a-4196-83af-b4ec4f324fe9.png">
 <img width="720" alt="Screen Shot 2022-08-10 at 3 42 17 AM" src="https://user-images.githubusercontent.com/109619760/183883377-10e1e3cb-cc6a-4fda-b097-bd8ab14385a1.png">
 <img width="721" alt="Screen Shot 2022-08-10 at 3 42 41 AM" src="https://user-images.githubusercontent.com/109619760/183883386-d87a62be-94bc-4c62-a24e-1dd058e96724.png">
@@ -72,29 +72,29 @@ The purpose of my data is first and foremost to evaluate 1) which population gro
 
 ## Analysis Question 2: Among postpartum and pregnant women, which three state agencies or Indian tribal groups had the highest average participation for the year 2013? Which were the lowest?
 ### Step-By-Step Solution:
-1. Create a pivot table utilizing the 'postpartum 2013-2016' sheet which reflects 'Postpartum_Woman_Participation' data from 2013-2016.  
-2. Add 'State Agency or Indian Tribal Organization' to a row. 
-3. Order the row by 'Descending.' 
-4. Sort the row by 'SUM of Average Participation 10/12 - 09/13.' This is the average participation for the year 2013. 
-5. Unclick 'Show Totals' for the row. 
-6. Filter the pivot table to only show 'Average Participation 10/12 - 09/13.'
-7. Add 'Average Participation 10/12-09/13' to values. 
-8. Evaluate data for the highest average participation score.
+- Create a pivot table utilizing the 'postpartum 2013-2016' sheet which reflects 'Postpartum_Woman_Participation' data from 2013-2016.  
+- Add 'State Agency or Indian Tribal Organization' to a row. 
+- Order the row by 'Descending.' 
+- Sort the row by 'SUM of Average Participation 10/12 - 09/13.' This is the average participation for the year 2013. 
+- Unclick 'Show Totals' for the row. 
+- Filter the pivot table to only show 'Average Participation 10/12 - 09/13.'
+- Add 'Average Participation 10/12-09/13' to values. 
+- Evaluate data for the highest average participation score.
 <img width="758" alt="Screen Shot 2022-08-10 at 1 36 18 AM" src="https://user-images.githubusercontent.com/109619760/183855518-20a81cb2-45fb-4edb-8d3a-b69d29ba051a.png">
-9. Change the order of the row to 'Ascending.'
-10. Evaluate the data for the lowest average participation score.
+- Change the order of the row to 'Ascending.'
+- Evaluate the data for the lowest average participation score.
 <img width="752" alt="Screen Shot 2022-08-10 at 1 35 54 AM" src="https://user-images.githubusercontent.com/109619760/183855559-01c17f8e-f856-4e5b-b5fb-ac8b6957ec08.png"> 
-11. Create a pivot table utilizing the 'pregnant 2013-2016' sheet which reflects 'Pregnant_Woman_Participation' data from 2013-2016.
-12. Add 'State Agency or Infian Tribal Organization' to a row.
-13. Order the row by 'Descending.'
-14. Sort the row by 'SUM of Average Participation 10/12-09/13.' This is the average participation for the year 2013.
-15. Unclick 'Show Totals' for the row.
-16. Filter the pivot table to show only 'Average Participation 10/12-09/13.'
-17. Add 'Average Participation 10/12-09/13 to values.'
-18. Evaluate data for the highest average participation score.
+- Create a pivot table utilizing the 'pregnant 2013-2016' sheet which reflects 'Pregnant_Woman_Participation' data from 2013-2016.
+- Add 'State Agency or Infian Tribal Organization' to a row.
+- Order the row by 'Descending.'
+- Sort the row by 'SUM of Average Participation 10/12-09/13.' This is the average participation for the year 2013.
+- Unclick 'Show Totals' for the row.
+- Filter the pivot table to show only 'Average Participation 10/12-09/13.'
+- Add 'Average Participation 10/12-09/13 to values.'
+- Evaluate data for the highest average participation score.
 <img width="575" alt="Screen Shot 2022-08-10 at 4 08 12 AM" src="https://user-images.githubusercontent.com/109619760/183886818-f8bd2c24-aee1-4bf9-9813-535b235c384b.png">
-19. Change the order of the row to 'ascending.'
-20. Evaluate the data for the lowest average participation score.
+- Change the order of the row to 'ascending.'
+- Evaluate the data for the lowest average participation score.
 <img width="843" alt="Screen Shot 2022-08-10 at 4 10 00 AM" src="https://user-images.githubusercontent.com/109619760/183887140-152f68c6-d9d8-4a2b-a889-e413c3b0aa26.png">
 
 ### *ANSWER KEY:*
@@ -106,14 +106,14 @@ The purpose of my data is first and foremost to evaluate 1) which population gro
 ## Analysis Question 3: Among total WIC participants, are any state agencies or Indian tribal organizations exceptional in regards to average participation size in the year 2014?
 
 ### Step-By-Step Solution:
-1. Create a pivot table utilizing the 'total participation 2013-2016' sheet which reflects 'Total_Number_of_Participants' data from 2013-2016.  
-2. Add 'State Agency or Indian Tribal Organization' to a row. 
-3. Order the row by 'Descending.' 
-4. Sort the row by 'SUM of Average Participation 10/13 - 09/14.' This is the average participation for the year 2014. 
-5. Unclick 'Show Totals' for the row. 
-7. Filter the pivot table to only show 'Average Participation 10/13 - 09/14.'
-8. Add 'Average Participation 10/13-09/14' to values. 
-9. Evaluate data for any exceptional data.
+- Create a pivot table utilizing the 'total participation 2013-2016' sheet which reflects 'Total_Number_of_Participants' data from 2013-2016.  
+- Add 'State Agency or Indian Tribal Organization' to a row. 
+- Order the row by 'Descending.' 
+- Sort the row by 'SUM of Average Participation 10/13 - 09/14.' This is the average participation for the year 2014. 
+- Unclick 'Show Totals' for the row. 
+- Filter the pivot table to only show 'Average Participation 10/13 - 09/14.'
+- Add 'Average Participation 10/13-09/14' to values. 
+- Evaluate data for any exceptional data.
 <img width="1016" alt="Screen Shot 2022-08-10 at 1 55 52 AM" src="https://user-images.githubusercontent.com/109619760/183859874-0fb39f52-e071-4c40-b92d-033d9123ba6c.png">
 <img width="1013" alt="Screen Shot 2022-08-10 at 1 56 49 AM" src="https://user-images.githubusercontent.com/109619760/183860021-4bf25c96-7eff-4d4b-af5f-454f66a75b07.png">
 <img width="1006" alt="Screen Shot 2022-08-10 at 1 58 37 AM" src="https://user-images.githubusercontent.com/109619760/183860449-d9e8f77b-f6ce-484a-a074-0029bc4c8d41.png">
