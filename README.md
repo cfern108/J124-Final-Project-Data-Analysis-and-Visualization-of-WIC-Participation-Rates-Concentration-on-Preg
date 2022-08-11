@@ -9,8 +9,6 @@ In my analysis, I am seeking to break down the Special Supplemental Nutrition Pr
 
 The purpose of my data is first and foremost to evaluate 1) which population group , either postpartum or pregnant women, utilize WIC services more often, 2) which state agencies and/or Indian Tribal Organizations serve participants most and least frequently, and 3) overall lay the groundwork for a proposal regarding which population groupings the federal government should concentrate its service efforts on based on a supply and demand logic. On a moral and ethical level, I believe my findings are relevant to a conversation surrounding the needs of women, prenatal and postpartum while simultaneously being intentional about shedding light on WIC participation, specifically one in which I hope will lead to a conversation in which groups are asked what needs they need met rather than being shunned for utilizing services. Questions I will be asking include, "Which population groups (e.g. pregnant women, postpartum women, etc.)make up the largest percentage of WIC participants?" or "Which state agency or Indian tribal organization has the highest relative participation rate?" and more. 
 
-
-  SUMMARY OF FINDINGS 
 ![Preg_Wom_3Pic_banner](https://user-images.githubusercontent.com/109619760/183976534-93f365c0-0194-461c-9392-2a7df4008ee0.png)
 
 # Secondary Sources 
