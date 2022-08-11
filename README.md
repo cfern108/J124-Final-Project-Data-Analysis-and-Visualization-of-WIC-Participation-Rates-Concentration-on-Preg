@@ -188,7 +188,6 @@ The purpose of my data is first and foremost to evaluate 1) which population gro
 * In general, the figures for total WIC participation all gradually decreased through the years per state. Similarly, the figures for pregnant women all gradually decreased through the years per state as well. Meanwhile, the figures for postpartum women in Alaska and Arizona all gradually decreased through the years. However, the figures for postpartum women in Alabama from (2013-2016) show a decrease, increase, decrease from the time period, with the (2016) average WIC participation being (567.58) higher than it was in (2013). 
 
 # Data Visualization
-* This data visualization showcases average WIC participation rate per year from (2013 - 2016) in the five largest states (by population size) in the United States. To showcase my data, I created two separate visualizations: one for pregnant women, one for postpartum women.
-
+* This data visualization showcases average WIC participation rate per year from (2013 - 2016) in the five largest states (by population size) in the United States. To showcase my data, I created two separate visualizations: one for [pregnant women](https://datawrapper.dwcdn.net/mycoK/1/), one for postpartum women. 
 ![visualization for pregnant women](https://user-images.githubusercontent.com/109619760/184250493-e1945d0a-ee2e-4fab-8986-f630dbfe170f.png)
 
