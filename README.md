@@ -162,4 +162,9 @@ The purpose of my data is first and foremost to evaluate 1) which population gro
 23.  Filter the table to only show data for 'Alabama, Alaska, and Arizona.'
 24.  Evaluate data.
 <img width="919" alt="analysis #5 pt 3" src="https://user-images.githubusercontent.com/109619760/184131128-75bda97d-a28d-4175-bc00-034502530f38.png">
-
+### *ANSWER KEY:*
+* Average Total WIC Participation (2013): Arizona (161,747.75), Alaska (23,054.67), Alabama (139,000.50).
+* Average Total WIC Participation (2014): Arizona (153,401.42), Alaska (19,604.67), Alabama (19,120.92).
+* Average Total WIC Participation (2015): Arizona (148,207.75), Alaska (19,682), Alabama (132,132.75).
+* Average Total WIC Participation (2016): Arizona (145,778), Alaska (19,120.92), Alabama (129,159.92). 
+* In general, the figures for total WIC participation all gradually decreased through the years per state. Similarly, the figures for pregnant women all gradually decreased through the years per state as well. Meanwhile, the figures for postpartum women in Alaska and Arizona all gradually decreased through the years. However, the figures for postpartum women in Alabama from (2013-2016) show a decrease, increase, decrease from the time period, with the (2016) average WIC participation being (567.58) higher than it was in (2013). 
