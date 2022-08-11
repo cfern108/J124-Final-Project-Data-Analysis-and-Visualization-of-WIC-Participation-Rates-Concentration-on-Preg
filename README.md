@@ -186,3 +186,6 @@ The purpose of my data is first and foremost to evaluate 1) which population gro
 * Average Total WIC Participation (2015): Arizona (148,207.75), Alaska (19,682), Alabama (132,132.75).
 * Average Total WIC Participation (2016): Arizona (145,778), Alaska (19,120.92), Alabama (129,159.92). 
 * In general, the figures for total WIC participation all gradually decreased through the years per state. Similarly, the figures for pregnant women all gradually decreased through the years per state as well. Meanwhile, the figures for postpartum women in Alaska and Arizona all gradually decreased through the years. However, the figures for postpartum women in Alabama from (2013-2016) show a decrease, increase, decrease from the time period, with the (2016) average WIC participation being (567.58) higher than it was in (2013). 
+
+# Data Visualization
+* This data visualization details the top five State Agencies and/or Indian Tribal Organizations with the highest average WIC participation score. The two categories showcased include postpartum and pregnant women. 
