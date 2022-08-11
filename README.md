@@ -132,5 +132,8 @@ The purpose of my data is first and foremost to evaluate 1) which population gro
 7. Filter 'State Agency or Indian Tribal Organization to only show data for California and Texas. 
 8. Create Two new columns "Percent Change Yearly."
 9. Use the equation "=((current year value - previous year value)/previous year value) for analysis. 
-10.  
+
+## Analysis Question #5: What percentage of total WIC participants are pregnant women? What percentage of total WIC participants are postpartum women? 
+### Step-By-Step Solution: 
+1. 
 
